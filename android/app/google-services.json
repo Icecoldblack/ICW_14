@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250254156753",
+    "project_id": "icw-14",
+    "storage_bucket": "icw-14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250254156753:android:6d7f5b72b8d6d4323c36f0",
+        "android_client_info": {
+          "package_name": "edu.gsu.uyiosa.icw_14"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3QMywa3mTeSU9ywiTecwu_MHSJ0U99ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
